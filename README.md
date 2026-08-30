@@ -73,7 +73,7 @@ mvn clean test
 
 
 2. Launch the interactive **Allure Report Dashboard**:
-  ```bash
-  mvn allure:serve
+   ```bash
+   mvn allure:serve
 
 
