@@ -37,3 +37,21 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Allure Reporting ###
+allure-results/
+allure-report/
+
+### Extent Reports ###
+test-output/
+*.html
+
+### Local Screenshots / Artifacts ###
+src/main/java/com/screenshots/*.png
+*.png
+
+### IDEs & Environment Files ###
+.idea/workspace.xml
+.idea/caches/
+.idea/shelf/
+*.log
