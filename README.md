@@ -77,3 +77,12 @@ mvn clean test
    mvn allure:serve
 
 
+---
+
+## 📸 Dashboard Preview
+
+Here is a preview of the interactive **Allure Test Execution Report** demonstrating test suites, failure logging, and automated screenshot attachments:
+
+<div align="center">
+  <img src="allure-dashboard.png" alt="Allure Report Dashboard Preview" width="100%"/>
+</div>
