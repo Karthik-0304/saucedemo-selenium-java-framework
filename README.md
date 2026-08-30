@@ -68,14 +68,14 @@ mvn clean test
 ## 📊 Generating & Viewing Allure Reports
 
 1. Run the test suite to compile sources and generate execution result artifacts:
-bash
-mvn test
+   ```bash
+   mvn test
 
 
 
 
 2. Launch the interactive **Allure Report Dashboard**:
-bash
-mvn allure:serve
+  ```bash
+  mvn allure:serve
 
 
