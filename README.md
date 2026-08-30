@@ -1,4 +1,3 @@
-```markdown
 # SauceDemo Selenium Java Automation Framework
 
 An enterprise-grade test automation framework built using **Java 21**, **Selenium WebDriver**, **TestNG**, and **Maven**, featuring the **Page Object Model (POM)** design pattern, comprehensive real-time logging via **Log4j2**, and advanced HTML reporting via **Allure** and **Extent Reports**.
@@ -42,8 +41,6 @@ saucedemo-selenium-java-framework/
 │
 ├── pom.xml                               # Maven project object model
 └── testng.xml                            # TestNG suite configuration file
-
-```
 
 ---
 
